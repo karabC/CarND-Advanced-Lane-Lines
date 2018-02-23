@@ -20,8 +20,8 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image1]: ./camera_cal/calibration3.jpg "Before"
 [image1_u]: ./camera_cal_output/Output_calibration3.jpg "After distortion correction"
-[image2]: ./output_images/Undistort_test3.jpg "Road Transformed"
-[image2_u]: ./test_images/test3.jpg "Road Transformed"
+[image2_u]: ./output_images/Undistort_test3.jpg "Road Transformed"
+[image2]: ./test_images/test3.jpg "Road Transformed"
 [image3]: ./output_images/Transformed_straight_lines2.jpg "Binary Example"
 [image4]: ./test_images/straight_lines1.jpg "Original Example"
 [image4_w]: ./output_images/Projected_straight_lines1.jpg "Warp Example"
